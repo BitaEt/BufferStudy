@@ -1,1 +1,3 @@
 # BufferStudy
+
+This SQL code project is dedicated to creating a comprehensive dataset by aggregating data from various sources, including TIMS (Traffic Incident Management System), census datasets, and Sandag shapefiles. The primary objective is to extract location-based information for schools within different buffer zones, with a particular emphasis on analyzing traffic safety, pedestrian, and bike accidents in proximity to these educational institutions. Three distinct databases have been meticulously developed to support machine learning algorithms and analyses focused on understanding and enhancing traffic safety in school areas.
